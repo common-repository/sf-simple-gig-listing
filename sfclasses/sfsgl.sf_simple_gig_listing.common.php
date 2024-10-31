@@ -1,0 +1,1 @@
+<?phpclass sfsglCommon {}$key = "commmonmethods";$this->{$key} = new sfsglCommon();

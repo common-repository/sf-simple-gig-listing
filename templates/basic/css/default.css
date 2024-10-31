@@ -1,0 +1,54 @@
+/*
+* START general classes
+*/
+
+.hidden {
+  display: none;
+}
+.marginTopMedium {
+  margin-top: 25px;
+}
+.marginBottomMedium {
+  margin-bottom: 25px;
+}
+/*
+* END general classes
+*/
+
+/*
+* START Widget classes
+*/
+/* Icon Wide Listing */
+.sf_wide.sf_sgl_show_gigs_widget ul li {
+  list-style: none;
+  padding: 10px;
+  display: inline-block;
+}
+.widget .sf_wide.sf_sgl_show_gigs_widget ul li {
+  display: block;
+}
+.sf_sgl_show_gigs_widget ul {
+  margin: 0px;
+}
+.sf_wide.sf_sgl_show_gigs_widget ul li i {
+  width: 20px;
+}
+
+/* Simple Listing */
+.sf_simple.sf_sgl_show_gigs_widget ul li {
+  list-style: none;
+  border-bottom: 1px solid rgb(209, 209, 209);
+  padding: 10px 0;
+}
+.sf_simple.sf_sgl_show_gigs_widget ul li .sf_name {
+  font-weight: bold;
+  color: #000;
+  font-size: 1.2em;
+}
+.sf_simple.sf_sgl_show_gigs_widget ul li span {
+  font-size: 0.8em;
+  color: #333;
+}
+/*
+* END Widget classes
+*/

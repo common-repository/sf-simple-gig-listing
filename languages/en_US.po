@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SF Simple Gig Listing\n"
+"POT-Creation-Date: 2017-05-29 13:19+0200\n"
+"PO-Revision-Date: 2017-05-29 13:19+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: sf_simple_gig_listing.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/tabs/main.php:1
+msgid "Übersicht aller Auftritte"
+msgstr "Overview of all Gigs"
+
+#: admin/tabs/main.php:31
+msgid "Löschen"
+msgstr "Delete"
+
+#: admin/tabs/main.php:33
+msgid "Anfrage wird bearbeitet"
+msgstr "Processing"
+
+#: admin/tabs/main.php:34
+msgid "Erfolgreich gelöscht"
+msgstr "Successfully deleted!"
+
+#: admin/tabs/main.php:69
+msgid "Erste Seite"
+msgstr "First page"
+
+#: admin/tabs/main.php:77
+msgid "Vorherige Seite"
+msgstr "Previous page"
+
+#: admin/tabs/main.php:83
+msgid "von"
+msgstr "of"
+
+#: admin/tabs/main.php:92
+msgid "Nächste Seite"
+msgstr "Next Page"
+
+#: admin/tabs/main.php:100
+msgid "Letzte Seite"
+msgstr "Last page"
+
+#: admin/tabs/main.php:117
+msgid "Name des Events"
+msgstr "Name of the event"
+
+#: admin/tabs/main.php:118
+msgid "Venue"
+msgstr "Venue"
+
+#: admin/tabs/main.php:119
+msgid "Location"
+msgstr "Location"
+
+#: admin/tabs/main.php:120
+msgid "Datum"
+msgstr "Date"
+
+#: admin/tabs/new.php:5
+msgid "Neuen Auftritt hinzufügen"
+msgstr "Add new Gig"
+
+#: admin/tabs/new.php:10 admin/tabs/new.php:15 admin/tabs/new.php:20
+#: admin/tabs/new.php:25
+msgid "Bitte geben Sie etwas ein"
+msgstr "Please type something"
+
+#: admin/tabs/new.php:28 sfclasses/sfsgl.sf_simple_gig_listing.admin.php:34
+msgid "Auftritt hinzufügen"
+msgstr "Add Gig"
+
+#: admin/tabs/new.php:31
+msgid "Auftritt wurde erfolgreich hinzugefügt."
+msgstr "Gig has been successfully added"
+
+#: admin/tabs/new.php:31
+#: sfclasses/sfsgl.sf_simple_gig_listing.show_gig_widget.php:11
+msgid "Zeige alle Auftritte"
+msgstr "Show all Gigs"
+
+#: admin/tabs/new.php:31
+msgid "Weiteren Auftritt hinzufügen"
+msgstr "Add new Gig"
+
+#: admin/tabs/settings.php:1 sfclasses/sfsgl.sf_simple_gig_listing.admin.php:34
+msgid "Einstellungen"
+msgstr "Settings"
+
+#: admin/tabs/settings.php:1
+msgid "MAXIMALE ANZAHL"
+msgstr "MAX AMOUNT"
+
+#: admin/tabs/settings.php:1
+#, fuzzy
+msgid ""
+"Wähle, wieviele Auftritte angezeigt werden sollen. Wähle 0, wenn alle "
+"Auftritte angezeigt werden sollen."
+msgstr ""
+"Choose how many gigs to be displayed. Choose 0 if you want to display all."
+
+#: admin/tabs/settings.php:1
+msgid "SORTIERUNG"
+msgstr "SORTING"
+
+#: admin/tabs/settings.php:1
+msgid ""
+"Wähle, ob die Auftritte aufsteigend, oder absteigend angezeigt werden sollen."
+msgstr "Choose Gigs' sorting. Ascending or descending."
+
+#: admin/tabs/settings.php:1
+msgid "Absteigend"
+msgstr "Descending"
+
+#: admin/tabs/settings.php:1
+msgid "Aufsteigend"
+msgstr "Ascending"
+
+#: admin/tabs/settings.php:1
+msgid "ZEIGE VERGANGENE AUFTRITTE"
+msgstr "DISPLAY PAST GIGS"
+
+#: admin/tabs/settings.php:1
+#, fuzzy
+msgid "Wähle, ob bereits vergangene Auftritte angezeigt werden sollen."
+msgstr "Choose to display past gigs."
+
+#: admin/tabs/settings.php:1
+msgid "Enable"
+msgstr "Enable"
+
+#: admin/tabs/settings.php:1
+msgid "Disable"
+msgstr "Disable"
+
+#: admin/tabs/settings.php:1
+msgid "CSS STYLE"
+msgstr "CSS STYLE"
+
+#: admin/tabs/settings.php:1
+msgid "Wähle deine bevorzugte Ansicht."
+msgstr "Choose your preferred style."
+
+#: admin/tabs/settings.php:1
+msgid "Simple"
+msgstr "Simple"
+
+#: admin/tabs/settings.php:1
+msgid "Icons + Wide"
+msgstr "Icons + Wide"
+
+#: admin/tabs/settings.php:1
+msgid "Änderungen speichern"
+msgstr "Save changes"
+
+#: sfclasses/sfsgl.sf_simple_gig_listing.admin.php:28
+msgid "Simple Gig Listing"
+msgstr "Simple Gig Listing"
+
+#: sfclasses/sfsgl.sf_simple_gig_listing.admin.php:30
+msgid "Einstellungen gespeichert."
+msgstr "Settings saved."
+
+#: sfclasses/sfsgl.sf_simple_gig_listing.admin.php:34
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: sfclasses/sfsgl.sf_simple_gig_listing.show_gig_widget.php:9
+msgid "Show All Gigs"
+msgstr "Show All Gigs"
+
+#: sfclasses/sfsgl.sf_simple_gig_listing.show_gig_widget.php:42
+msgid "New title"
+msgstr "New title"
+
+#: sfclasses/sfsgl.sf_simple_gig_listing.show_gig_widget.php:48
+msgid "Title:"
+msgstr "Title:"
+
+#. Plugin Name of the plugin/theme
+msgid "SF Simple Gig Listing"
+msgstr "SF Simple Gig Listing"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://simplefox.de"
+msgstr "http://simplefox.de"
+
+#. Description of the plugin/theme
+msgid "A simple listing for Gigs."
+msgstr "A simple listing for Gigs."
+
+#. Author of the plugin/theme
+msgid "Simplefox - Kjell Weibrecht"
+msgstr "Simplefox - Kjell Weibrecht"
